@@ -1,4 +1,4 @@
-4373
+4376
 64C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\yaml\map.js133173803437590660 0
 70C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\binary-extensions133173804593727072 1
 86C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@swc\helpers\src\_export_star.mjs133173803444848277 0
@@ -9,12 +9,12 @@
 74C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\msgpackr\iterators.js133173803437578259 0
 81C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\abortcontroller-polyfill\src133173803437326292 1
 87C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\electron-to-chromium\versions.json133173803437403942 0
-60C:\Users\risha\OneDrive\Desktop\Forkify\src\js\controller.js132886757200000000 0
+60C:\Users\risha\OneDrive\Desktop\Forkify\src\js\controller.js133174036403456005 0
 112C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133173803439665578 0
 78C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\dotenv\lib\env-options.js133173803435296550 0
 86C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\entities\lib\encode-trie.d.ts.map133173803438471905 0
 86C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\htmlparser2\lib\WritableStream.js133173803435006914 0
-70C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@msgpackr-extract133173804607080114 1
+70C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@msgpackr-extract133173807380184333 1
 98C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\contenteditable.js133173803444367907 0
 84C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\regions\AT.js133173803440623429 0
 89C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\utility-types\dist\mapped-types.d.ts133173803438602200 0
@@ -38,7 +38,7 @@
 85C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\sass\types\legacy\exception.d.ts133173804598318905 0
 81C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\sass\types\value\string.d.ts133173804599495031 0
 79C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\yaml\browser\types\omap.js133173803437771083 0
-44C:\Users\risha\OneDrive\Desktop\Forkify\dist133173804624550928 1
+44C:\Users\risha\OneDrive\Desktop\Forkify\dist133174036409258238 1
 81C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\color-convert\conversions.js133173803432719821 0
 68C:\Users\risha\OneDrive\Desktop\Forkify\forkify-flowchart-part-2.png132886757200000000 0
 79C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\cache\src\types.js133173803437355195 0
@@ -68,21 +68,21 @@
 118C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file133173803443657356 1
 86C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\core\src\public\Target.js133173803445089547 0
 101C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133173803446718756 0
-50C:\Users\risha\OneDrive\Desktop\Forkify\index.html132886757200000000 0
+50C:\Users\risha\OneDrive\Desktop\Forkify\index.html133173814709418853 0
 77C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\abortcontroller-polyfill133173803437710093 1
 105C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133173803438230628 0
 66C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\escalade\dist133173803434593316 1
-52C:\Users\risha\OneDrive\Desktop\Forkify\node_modules133173804607080114 1
+52C:\Users\risha\OneDrive\Desktop\Forkify\node_modules133173807380184333 1
 66C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@trysound\sax133173803433557492 1
 94C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\css-lch-lab.js133173803445742397 0
 71C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\lmdb\src\lmdb-js.h133173803444004958 0
 67C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\yaml\util.d.ts133173803442284784 0
 99C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133173803440364061 0
-57C:\Users\risha\OneDrive\Desktop\Forkify\package-lock.json133173804607554632 0
+57C:\Users\risha\OneDrive\Desktop\Forkify\package-lock.json133173807380686962 0
 88C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\forms.js133173803448326143 0
 110C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js133173803439137599 0
 61C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\css-what133173803438633191 1
-52C:\Users\risha\OneDrive\Desktop\Forkify\package.json133173804921510646 0
+52C:\Users\risha\OneDrive\Desktop\Forkify\package.json133173807380696603 0
 62C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@lezer\lr133173803434928000 1
 99C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\webkit-user-drag.js133173803454270291 0
 114C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133173803441870650 0
@@ -169,7 +169,7 @@
 91C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\utils\src\isDirectoryInside.js133173803441664449 0
 79C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\core\test\fixtures133173803446209856 1
 61C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\css-tree133173803444971989 1
-71C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\.package-lock.json133173804607813171 0
+71C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\.package-lock.json133173807380921532 0
 99C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\childnode-remove.js133173803443923187 0
 102C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133173803442969024 0
 73C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\terser\lib\output.js133173803441422336 0
@@ -199,7 +199,7 @@
 109C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133173803438295439 0
 88C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\watcher\prebuilds\win32-x64133173803442382505 1
 70C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\csso\CHANGELOG.md133173803441930175 0
-58C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@lmdb133173804607085190 1
+58C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@lmdb133173807380184333 1
 62C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@mischnic133173803419481327 1
 61C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\anymatch133173804593703508 1
 72C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\stable\package.json133173803430979117 0
@@ -2105,6 +2105,7 @@
 98C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\urlsearchparams.js133173803453840508 0
 102C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133173803444068030 0
 74C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\json5\lib\register.js133173803435553857 0
+62C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.e37f48ea.js133174036408977136 0
 73C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\json5\lib\require.js133173803435943148 0
 77C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\json5\lib\stringify.d.ts133173803438802831 0
 75C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\json5\lib\stringify.js133173803436290018 0
@@ -3185,7 +3186,7 @@
 95C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\font-loading.js133173803448179993 0
 99C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\font-size-adjust.js133173803448193373 0
 101C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\font-unicode-range.js133173803448217560 0
-64C:\Users\risha\OneDrive\Desktop\Forkify\dist\Forkify.3464ddca.js133173804624011510 0
+64C:\Users\risha\OneDrive\Desktop\Forkify\dist\Forkify.3464ddca.js133173808156453856 0
 106C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\font-variant-alternates.js133173803448228942 0
 93C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\fullscreen.js133173803448349478 0
 90C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\caniuse-lite\data\features\gamepad.js133173803448366059 0
@@ -4065,7 +4066,7 @@
 137C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js133173803441772642 0
 137C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js133173803442332202 0
 133C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\package.json133173803444017016 0
-68C:\Users\risha\OneDrive\Desktop\Forkify\dist\Forkify.3464ddca.js.map133173804624119428 0
+68C:\Users\risha\OneDrive\Desktop\Forkify\dist\Forkify.3464ddca.js.map133173808156578653 0
 135C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested133173803440678462 1
 144C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested\index.js133173803440678462 0
 131C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js133173803440532950 0
@@ -4364,11 +4365,13 @@
 68C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\.bin\semver.cmd133173803462033826 0
 68C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\.bin\semver.ps1133173803462033826 0
 62C:\Users\risha\OneDrive\Desktop\Forkify\node_modules\.bin\svgo133173803462043897 0
-65C:\Users\risha\OneDrive\Desktop\Forkify\dist\favicon.8b2f57bf.png133173804624349955 0
-63C:\Users\risha\OneDrive\Desktop\Forkify\dist\icons.21bad73c.svg133173804624541191 0
-62C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.62406edb.js133173804623991452 0
-66C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.62406edb.js.map133173804624119428 0
-63C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.f7626f62.css133173804624349955 0
-67C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.f7626f62.css.map133173804624378427 0
-55C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.html133173804624077659 0
-62C:\Users\risha\OneDrive\Desktop\Forkify\dist\logo.726d37a8.png133173804623947403 0
+65C:\Users\risha\OneDrive\Desktop\Forkify\dist\favicon.8b2f57bf.png133174036408770840 0
+63C:\Users\risha\OneDrive\Desktop\Forkify\dist\icons.21bad73c.svg133174036408580892 0
+63C:\Users\risha\OneDrive\Desktop\Forkify\dist\icons.dfd7a6db.svg133174036408957269 0
+62C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.62406edb.js133173808156453856 0
+66C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.62406edb.js.map133173808156578653 0
+66C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.e37f48ea.js.map133174036409128428 0
+63C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.f7626f62.css133174036409043904 0
+67C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.f7626f62.css.map133174036409176525 0
+55C:\Users\risha\OneDrive\Desktop\Forkify\dist\index.html133174035346555859 0
+62C:\Users\risha\OneDrive\Desktop\Forkify\dist\logo.726d37a8.png133174036409081508 0
